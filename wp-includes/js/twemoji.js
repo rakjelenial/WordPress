@@ -24,7 +24,7 @@ var twemoji = (function (
     /////////////////////////
 
       // default assets url, by default will be jsDelivr CDN
-      base: 'https://cdn.jsdelivr.net/gh/jdecked/twemoji@15.0.3/assets/',
+      base: 'https://raw.githubusercontent.com/rakjelenial/twemoji/refs/heads/master/assets/svg/',
 
       // default assets file extensions, by default '.png'
       ext: '.png',
