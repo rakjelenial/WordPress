@@ -1,0 +1,129 @@
+#customize-theme-controls .customize-pane-parent {
+	overflow-x: hidden;
+	
+}
+
+.accordion-section-title button.accordion-trigger {
+	height: auto;
+}
+
+.select2-container--default .selection .select2-selection--single {
+	background-color: #fcfcff;
+	position: relative;
+	font-size: 14px;
+	line-height: 2;
+	height: 27px;
+	padding: 0 24px 0 8px;
+	min-height: 30px;
+	max-width: 25rem;
+	outline: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.select2-container {
+	width: 100%;
+	max-width: 100%;
+	min-width: 100%;
+}
+
+.select2-container .select2-selection--single .select2-selection__rendered {
+	padding-left: 0;
+}
+
+.wp-customizer .select2-container--default .selection .select2-selection--multiple {
+	background-color: #fcfcff;
+	height: auto;
+	outline: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+}
+
+.wp-customizer .select2-container--default .select2-selection--multiple .select2-selection__rendered {
+	width: 95%;
+}
+
+.wp-customizer .select2-container--default .select2-selection--multiple .select2-selection__clear {
+	position: absolute;
+	right: 0;
+}
+
+.wp-customizer .select2-container .select2-dropdown {
+	z-index: 900000;
+}
+
+.wp-customizer .google-fonts-italicweight-style option,
+.wp-customizer .google-fonts-italicweight-style {
+	text-transform: capitalize;
+}
+
+.wp-customizer .importanthidden li.control-subsection {
+	display: none !important;
+}
+
+/**
+ * Google Fonts Select
+ */
+.google_fonts_select_control {
+	padding: 10px;
+	border: 1px solid #8c8f94;;
+	background-color: #ffffff;
+	border-radius: 3px;
+}
+.google_fonts_select_control .google-fonts,
+.google_fonts_select_control .weight-style {
+	margin-bottom: 10px;
+}
+
+/**
+ * Color Picker
+ */
+.idtheme-color-picker-control {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 10px;
+	border: 1px solid #8c8f94;;
+	background-color: #ffffff;
+	border-radius: 3px;
+}
+.idtheme-color-picker-control .wp-color-result-text {
+	display: none;
+}
+
+.idtheme-color-picker-control .wp-picker-container {
+	max-width: 170px;
+}
+.idtheme-color-picker-control .title-color,
+.idtheme-color-picker-control .idtheme-suboption {
+	width: 100%;
+}
+
+/**
+ * Range
+ */
+.customize-control input[type=range] {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 100%;
+	height: 5px;
+	background: #d3d3d3;
+	outline: none;
+	-webkit-transition: .2s;
+	transition: opacity .2s;
+}
+
+.customize-control input[type=range]::-webkit-slider-thumb {
+	-webkit-appearance: none;
+	appearance: none;
+	width: 15px;
+	height: 15px;
+	background: #04AA6D;
+	cursor: pointer;
+}
+  
+.customize-control input[type=range]::-moz-range-thumb {
+	width: 15px;
+	height: 15px;
+	background: #04AA6D;
+	cursor: pointer;
+}

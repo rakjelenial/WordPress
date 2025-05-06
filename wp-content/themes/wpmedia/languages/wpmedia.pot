@@ -1,0 +1,2596 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bosanova 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-05 19:53+0700\n"
+"PO-Revision-Date: 2024-03-05 19:54+0700\n"
+"Last-Translator: Gian Mokhammad R <g14nblog@gmail.com>\n"
+"Language-Team: Gian Mokhammad R <g14nblog@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Domain: bosanova\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_c;_nc:4c,1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: 404.php:22
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: archive.php:114 author.php:107 inc/woocommerce.php:340 index.php:153
+#: page-index.php:149 search.php:63
+msgid "Back"
+msgstr ""
+
+#: archive.php:115 author.php:108 inc/module.php:228
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:361 inc/woocommerce.php:341
+#: index.php:154 page-index.php:150 search.php:64
+msgid "Next"
+msgstr ""
+
+#: archive.php:133 author.php:126 index.php:172 page-index.php:168
+#: search.php:82
+msgid "No More Posts Available."
+msgstr ""
+
+#: archive.php:134 author.php:127 index.php:173 page-index.php:169
+#: search.php:83
+msgid "No more pages to load."
+msgstr ""
+
+#: archive.php:137 author.php:130
+#: inc/widgets/class-wpmedia-address-widget.php:89
+#: inc/widgets/class-wpmedia-address-widget.php:101
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:172
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:184
+#: inc/widgets/class-wpmedia-popularposts-widget.php:174
+#: inc/widgets/class-wpmedia-popularposts-widget.php:186
+#: inc/widgets/class-wpmedia-recentposts-widget.php:174
+#: inc/widgets/class-wpmedia-recentposts-widget.php:186 index.php:176
+#: page-index.php:172 search.php:86
+msgid "View More"
+msgstr ""
+
+#: author.php:39 inc/template-tags.php:206 inc/template-tags.php:729
+msgid "Facebook"
+msgstr ""
+
+#: author.php:43 inc/template-tags.php:211 inc/template-tags.php:734
+msgid "Twitter"
+msgstr ""
+
+#: author.php:47 inc/template-tags.php:764
+msgid "Youtube"
+msgstr ""
+
+#: author.php:51 inc/template-tags.php:234 inc/template-tags.php:779
+msgid "WhatsApp"
+msgstr ""
+
+#: author.php:55 comments.php:99
+msgid "Website"
+msgstr ""
+
+#: author.php:57
+msgid "RSS Feed"
+msgstr ""
+
+#: comments.php:46
+msgid "Response (1)"
+msgstr ""
+
+#: comments.php:51
+#, php-format
+msgctxt "comments title"
+msgid "Response (%1$s)"
+msgid_plural "Responses (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:89 inc/widgets/class-wpmedia-taglist-widget.php:254
+msgid "Name"
+msgstr ""
+
+#: comments.php:94
+msgid "Email"
+msgstr ""
+
+#: comments.php:103
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: footer.php:117
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:117
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:119
+msgid "Theme: wpmedia."
+msgstr ""
+
+#: footer.php:126
+msgid "Non AMP Version"
+msgstr ""
+
+#: footer.php:148 footer.php:150
+msgid "Close"
+msgstr ""
+
+#: footer.php:159 inc/template-tags.php:825
+msgid "Search"
+msgstr ""
+
+#: footer.php:161 inc/template-tags.php:827 inc/template-tags.php:853
+msgid "Submit"
+msgstr ""
+
+#: functions.php:74
+msgid "Primary"
+msgstr ""
+
+#: functions.php:75
+msgid "Secondary"
+msgstr ""
+
+#: functions.php:76
+msgid "Side Menu (Mobile)"
+msgstr ""
+
+#: functions.php:77
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:331
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:333
+msgid "Add widgets here, do not using module widget."
+msgstr ""
+
+#: functions.php:342
+msgid "Home Top Sidebar"
+msgstr ""
+
+#: functions.php:344
+msgid "Home Display In Top Right Sidebar, do not using module widget."
+msgstr ""
+
+#: functions.php:354
+msgid "Module Fullwidth"
+msgstr ""
+
+#: functions.php:356
+msgid "Module Home fullwidth After third post. Fullwidth if home top sidebar active."
+msgstr ""
+
+#: functions.php:366
+msgid "Module 1"
+msgstr ""
+
+#: functions.php:368
+msgid "Module Home and Category Display After Sixth Post."
+msgstr ""
+
+#: functions.php:378
+msgid "Module 2"
+msgstr ""
+
+#: functions.php:380
+msgid "Module Home and Category Display After Ninth Post."
+msgstr ""
+
+#: functions.php:407
+msgid "Footer "
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:58 header.php:63
+msgid "Menus"
+msgstr ""
+
+#: header.php:103
+msgid "Breaking News"
+msgstr ""
+
+#: inc/banner.php:417 inc/banner.php:439 inc/banner.php:462
+msgid "close"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:48
+msgid "Add Image In Author Page"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:51
+msgid "Image"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:56
+msgid "This will display in author archive. Recommended size is 1100x250"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:60
+#: inc/widgets/class-wpmedia-address-widget.php:263
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:748
+#: inc/widgets/class-wpmedia-popularposts-widget.php:835
+#: inc/widgets/class-wpmedia-recentposts-widget.php:745
+msgid "Remove Image"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:61
+msgid "Upload Image"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:76
+msgid "Social Media"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:80
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:84
+msgid "Your Facebook URL."
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:89
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:93
+msgid "Your Twitter URL."
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:98
+msgid "Youtube URL"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:102
+msgid "Your Youtube URL."
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:107
+#: inc/customizer/gmrtheme-customizer.php:1449
+msgid "WhatsApp URL"
+msgstr ""
+
+#: inc/class-wpmedia-box-user-profile.php:111
+msgid "Your WhatsApp URL Example: https://wa.me/62XXXXXXXXXX. Tutorial https://faq.whatsapp.com/general/chats/how-to-use-click-to-chat/"
+msgstr ""
+
+#: inc/class-wpmedia-breadcrumbs.php:27
+msgid "Home"
+msgstr ""
+
+#: inc/class-wpmedia-breadcrumbs.php:28
+#: inc/customizer/gmrtheme-customizer.php:491
+msgid "Blog"
+msgstr ""
+
+#: inc/class-wpmedia-breadcrumbs.php:29
+msgid "404 Not found"
+msgstr ""
+
+#: inc/class-wpmedia-breadcrumbs.php:123
+msgid "Searching for:"
+msgstr ""
+
+#: inc/class-wpmedia-breadcrumbs.php:228
+msgid "No title"
+msgstr ""
+
+#: inc/class-wpmedia-category-options.php:84
+#: inc/class-wpmedia-category-options.php:105
+msgid "Category Color"
+msgstr ""
+
+#: inc/class-wpmedia-category-options.php:87
+#: inc/class-wpmedia-category-options.php:109
+msgid "Add color to category button"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:126
+msgid "Post Settings"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:250
+msgid "Post Settings:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:251
+msgid "Video Settings:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:255
+msgid "Focus News:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:257
+msgid "Enable the focus for this news?"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:260
+msgid "Source URL:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:262
+msgid "Please insert post source URL."
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:265
+msgid "News Writer:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:267
+msgid "Please insert name of news writer."
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:270
+msgid "News Editor:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:272
+msgid "Please insert name of news editor."
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:276
+msgid "Duration"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:280
+msgid "Hour"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:281
+#: inc/class-wpmedia-metabox-settings.php:317
+msgid "Minutes"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:282
+#: inc/class-wpmedia-metabox-settings.php:340
+msgid "Seconds"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:294
+msgid "Hours"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:363
+msgid "Please insert video duration"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:373
+msgid "Oembed"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:374
+msgid "Iframe"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:378
+msgid "Oembed URL:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:380
+msgid "Please insert full URL from youtube, vimeo or other oembed service, please see https://codex.wordpress.org/Embeds for information."
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:383
+msgid "Iframe Code:"
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:385
+msgid "Please insert html iframe here, if you using oembed url, this will not display. Only support iframe code."
+msgstr ""
+
+#: inc/class-wpmedia-metabox-settings.php:396
+#: inc/class-wpmedia-metabox-settings.php:407
+#: inc/customizer/gmrtheme-customizer.php:459
+#: inc/customizer/gmrtheme-customizer.php:478
+#: inc/customizer/gmrtheme-customizer.php:1044
+#: inc/customizer/gmrtheme-customizer.php:1063
+#: inc/customizer/gmrtheme-customizer.php:1521
+#: inc/customizer/gmrtheme-customizer.php:1531
+msgid "<a href=\"plugins.php?page=wpmedia-license\" style=\"font-weight: 700;\">Please insert your own license key here</a>.<br /><br /> If you bought from kentooz, you can get license key in your memberarea. <a href=\"https://member.kentooz.com/softsale/license\" target=\"_blank\">https://member.kentooz.com/softsale/license</a>"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-customizer-library-categories.php:54
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-customizer-library-google-font.php:114
+msgid "Select weight & style for regular text"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-customizer-library-google-font.php:133
+#: inc/customizer/custom-controls/class-customizer-library-google-font.php:152
+msgid "Select weight for"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-customizer-library-google-font.php:133
+msgid "italic text"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-customizer-library-google-font.php:152
+msgid "bold text"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-customizer-library-gradient.php:87
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:832
+#: inc/widgets/class-wpmedia-popularposts-widget.php:902
+#: inc/widgets/class-wpmedia-recentposts-widget.php:784
+msgid "From To"
+msgstr ""
+
+#: inc/customizer/custom-controls/class-customizer-library-gradient.php:91
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:836
+#: inc/widgets/class-wpmedia-popularposts-widget.php:906
+#: inc/widgets/class-wpmedia-recentposts-widget.php:788
+msgid "Direction"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:98
+msgid "General"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:105
+msgid "General Layout"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:111
+msgid "Box"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:112
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:117
+msgid "Select Layout"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:128
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:130
+msgid "Background Image only display, if using box layout."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:138
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:145
+msgid "Heading Font"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:160
+msgid "Body Font"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:175
+msgid "Content single font size"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:194
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:202
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:205
+msgid "Allow you to add icon, logo, change site-title and tagline to your website."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:211
+msgid "Header Image"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:214
+msgid "Allow you customize header sections in home page."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:219
+msgid "Disable header image"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:224
+msgid "If you disable header image, header section will replace with header color."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:237
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:242
+msgid "The background-size property specifies the size of the header images."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:242
+msgid "http://www.w3schools.com/cssref/css3_pr_background-size.asp"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:242
+#: inc/customizer/gmrtheme-customizer.php:261
+#: inc/customizer/gmrtheme-customizer.php:284
+#: inc/customizer/gmrtheme-customizer.php:303
+msgid "Learn more!"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:256
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:261
+msgid "The background-repeat property sets if/how a header image will be repeated."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:261
+msgid "http://www.w3schools.com/cssref/pr_background-repeat.asp"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:279
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:284
+msgid "The background-position property sets the starting position of a header image."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:284
+msgid "http://www.w3schools.com/cssref/pr_background-position.asp"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:298
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:303
+msgid "The background-attachment property sets whether a header image is fixed or scrolls with the rest of the page."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:303
+msgid "http://www.w3schools.com/cssref/pr_background-attachment.asp"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:310
+msgid "Topbar & Menu"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:313
+msgid "Allow you customize topbar & menu."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:318
+msgid "Remove search button"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:326
+msgid "Remove darkmode button"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:334
+msgid "Remove date"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:341
+#: inc/customizer/gmrtheme-customizer.php:1322
+msgid "1 col"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:342
+#: inc/customizer/gmrtheme-customizer.php:1323
+msgid "2 col"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:347
+msgid "Select Second Menu Layout"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:360
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:374
+msgid "Top Notification"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:377
+msgid "Insert your top text notification."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:381
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:382
+msgid "Text notification"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:383
+msgid "5 Recent Posts By Category"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:388
+msgid "Notification"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:397
+msgid "HTML or text code."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:401
+msgid "Please insert your text for notification here, this will marquee your text before top navigation"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:406
+msgid "Marquee Text"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:409
+msgid "Add text marquee. Default: Breaking News."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:414
+msgid "Insert Category If Using Recent Posts"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:424
+msgid "Module Home"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:431
+msgid "Disable Module Home"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:438
+msgid "Insert Category Name"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:448
+#: inc/customizer/gmrtheme-customizer.php:455
+#: inc/customizer/gmrtheme-customizer.php:467
+#: inc/customizer/gmrtheme-customizer.php:474
+#: inc/customizer/gmrtheme-customizer.php:1033
+#: inc/customizer/gmrtheme-customizer.php:1040
+#: inc/customizer/gmrtheme-customizer.php:1052
+#: inc/customizer/gmrtheme-customizer.php:1059
+#: inc/customizer/gmrtheme-customizer.php:1517
+#: inc/customizer/gmrtheme-customizer.php:1527
+msgid "Insert License Key"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:498
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:505
+msgid "Disable Sticky In Sidebar"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:512
+msgid "Number Pagination"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:513
+msgid "Infinite Scroll"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:514
+msgid "Button Click"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:519
+msgid "Blog Navigation Type"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:529
+msgid "Blog Content"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:536
+msgid "Recent news text"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:539
+msgid "Add text recent news here. Default:Recent News."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:544
+msgid "Disable Single Thumbnail"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:552
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:560
+msgid "Disable Related Posts in single"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:568
+msgid "Text related posts"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:571
+msgid "Add text related post here. Default:Related Posts."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:576
+msgid "Number Related Posts"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:580
+msgid "How much number post want to display on related post."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:589
+msgid "By Tags"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:590
+msgid "By Categories"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:591
+msgid "By Topics"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:596
+msgid "Related Posts Taxonomy"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:605
+msgid "Disable Second Related Posts in single"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:613
+msgid "Text second related posts"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:616
+msgid "Add text second related post here. Default:Read Also."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:621
+msgid "Number Second Related Posts"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:625
+msgid "How much number post want to display on Second related post."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:635
+msgid "Second Related Posts Taxonomy"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:643
+msgid "Default Comment"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:644
+msgid "Facebook Comment"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:648
+msgid "Single Comment"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:657
+msgid "Facebook App ID"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:660
+msgid "If you using fb comment, you must insert your own Facebook App ID, if you not insert this options, so you will using Facebook App ID from us."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:665
+msgid "Disable excerpt in archive."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:673
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:677
+msgid "If you choose excerpt, you can change excerpt lenght (default is 30)."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:693
+msgid "Banner"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:707
+msgid "Very Top Banner (Mobile Only)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:710
+msgid "Insert your banner on very top location, this will display parallax with close button. Size: max-width: 325px and height: 300px."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:715
+#: inc/customizer/gmrtheme-customizer.php:743
+#: inc/customizer/gmrtheme-customizer.php:762
+#: inc/customizer/gmrtheme-customizer.php:796
+#: inc/customizer/gmrtheme-customizer.php:830
+#: inc/customizer/gmrtheme-customizer.php:865
+#: inc/customizer/gmrtheme-customizer.php:898
+#: inc/customizer/gmrtheme-customizer.php:917
+#: inc/customizer/gmrtheme-customizer.php:945
+#: inc/customizer/gmrtheme-customizer.php:964
+#: inc/customizer/gmrtheme-customizer.php:983
+#: inc/customizer/gmrtheme-customizer.php:1002
+#: inc/customizer/gmrtheme-customizer.php:1021
+#: inc/customizer/gmrtheme-customizer.php:1845
+#: inc/customizer/gmrtheme-customizer.php:1876
+#: inc/customizer/gmrtheme-customizer.php:1895
+msgid "HTML code."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:720
+msgid "Please insert your html code, adsense code or other ads code here. This option support shortcode too. Please using size max-width: 325px and height: 300px."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:725
+msgid "Text Before Close"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:729
+msgid "Add text before close in very top banner."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:735
+msgid "Top Banner After Menu"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:738
+msgid "Insert your banner after menu."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:748
+#: inc/customizer/gmrtheme-customizer.php:767
+#: inc/customizer/gmrtheme-customizer.php:801
+#: inc/customizer/gmrtheme-customizer.php:835
+#: inc/customizer/gmrtheme-customizer.php:870
+#: inc/customizer/gmrtheme-customizer.php:922
+#: inc/customizer/gmrtheme-customizer.php:950
+#: inc/customizer/gmrtheme-customizer.php:969
+#: inc/customizer/gmrtheme-customizer.php:988
+#: inc/customizer/gmrtheme-customizer.php:1007
+msgid "Please insert your html code, adsense code or other ads code here. This option support shortcode too."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:754
+msgid "Banner Between Posts"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:757
+msgid "Insert your banner between post in archive page."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:771
+#: inc/customizer/gmrtheme-customizer.php:1733
+msgid "After First Post"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:772
+#: inc/customizer/gmrtheme-customizer.php:1734
+msgid "After Second Post"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:773
+#: inc/customizer/gmrtheme-customizer.php:1735
+msgid "After Third Post"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:774
+#: inc/customizer/gmrtheme-customizer.php:1736
+msgid "After Fourth Post"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:778
+#: inc/customizer/gmrtheme-customizer.php:812
+#: inc/customizer/gmrtheme-customizer.php:847
+#: inc/customizer/gmrtheme-customizer.php:880
+#: inc/customizer/gmrtheme-customizer.php:927
+#: inc/customizer/gmrtheme-customizer.php:1740
+#: inc/customizer/gmrtheme-customizer.php:1791
+msgid "Banner Position"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:788
+msgid "Banner Before Content"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:791
+msgid "Insert your banner before single content."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:805
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:806
+msgid "Float Left"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:807
+msgid "Float Right"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:808
+#: inc/customizer/gmrtheme-customizer.php:841
+#: inc/customizer/gmrtheme-customizer.php:876
+#: inc/customizer/gmrtheme-customizer.php:1784
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:822
+msgid "Banner Inside Content"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:825
+msgid "Insert your banner inside content in single post."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:839
+#: inc/customizer/gmrtheme-customizer.php:874
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:840
+#: inc/customizer/gmrtheme-customizer.php:875
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:842
+#: inc/customizer/gmrtheme-customizer.php:1785
+msgid "Center (Parallax)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:843
+msgid "Center (Sticky)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:857
+msgid "Banner After Content"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:860
+msgid "Insert your banner after content in single post."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:890
+msgid "Banner Sticky Left Content (max width 120px)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:893
+msgid "Insert your banner sticky left content in single post. Please using banner 120px x 600px or maximal width 120px."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:903
+msgid "Please insert your html code, adsense code or other ads code here. This option support shortcode too. This banner only display in desktop."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:909
+msgid "Banner After Related Posts"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:912
+msgid "Insert your banner after related posts in single post."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:937
+msgid "Floating Left Ads"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:940
+msgid "Insert your banner floating left in all page."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:956
+msgid "Floating Right Ads"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:959
+msgid "Insert your banner floating right in all page."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:975
+msgid "Floating Bottom Ads"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:978
+msgid "Insert your banner floating bottom in all page."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:994
+msgid "Footer Banner Before Widget"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:997
+msgid "Insert your banner in footer before widget footer or copyright."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1013
+msgid "Popup Banner"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1016
+msgid "Insert popup banner."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1026
+msgid "Please insert your html code, adsense code or other ads code here. Max width is 325px, and all image will resize to fullwidth (325px), so please using banner with width 325px. This option support shortcode too."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1076
+msgid "Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1084
+msgid "General Colors"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1091
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1100
+msgid "Second Color Scheme"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1109
+msgid "Background Color - Content"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1118
+msgid "Font Color - Body"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1127
+msgid "Grey Color - Body"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1136
+msgid "Grey Background color - Body"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1145
+msgid "Link Color - Body"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1154
+msgid "Link Hover Color - Body"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1163
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1172
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1180
+msgid "Button Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1190
+msgid "Header Colors"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1193
+msgid "Allow you customize header color style."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1198
+msgid "Background Color - Top Navigation"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1206
+msgid "Color - Top Navigation"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1214
+msgid "Link Color - Top Navigation"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1222
+msgid "Link Hover Color - Top Navigation"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1230
+msgid "Color Gradient Main Menu"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1244
+msgid "Text color - Menu"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1252
+msgid "Text hover color - Menu"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1262
+msgid "Footer Colors"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1265
+msgid "Allow you customize footer color style."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1270
+msgid "Background Color - Footer"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1278
+msgid "Font Color - Footer"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1286
+msgid "Link Color - Footer"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1294
+msgid "Hover Link Color - Footer"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1308
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1315
+#: inc/customizer/gmrtheme-customizer.php:1333
+msgid "Widgets Footer"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1318
+msgid "Footer widget columns."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1324
+msgid "3 col(33% 33% 33%)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1325
+msgid "3 col(50% 25% 25%)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1326
+msgid "4 col(25% 25% 25% 25%)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1327
+msgid "4 col(50% 16% 16% 16%)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1328
+msgid "6 col"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1343
+msgid "Footer Social"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1346
+msgid "Allow you add social icon."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1351
+msgid "Disable RSS icon in social"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1359
+msgid "FB Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1362
+#: inc/customizer/gmrtheme-customizer.php:1371
+#: inc/customizer/gmrtheme-customizer.php:1380
+#: inc/customizer/gmrtheme-customizer.php:1389
+#: inc/customizer/gmrtheme-customizer.php:1398
+#: inc/customizer/gmrtheme-customizer.php:1407
+#: inc/customizer/gmrtheme-customizer.php:1416
+#: inc/customizer/gmrtheme-customizer.php:1425
+#: inc/customizer/gmrtheme-customizer.php:1434
+#: inc/customizer/gmrtheme-customizer.php:1443
+#: inc/customizer/gmrtheme-customizer.php:1452
+#: inc/customizer/gmrtheme-customizer.php:1461
+#: inc/customizer/gmrtheme-customizer.php:1470
+#: inc/customizer/gmrtheme-customizer.php:1479
+#: inc/customizer/gmrtheme-customizer.php:1488
+msgid "Fill using http:// or https://"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1368
+msgid "Twitter Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1377
+msgid "Pinterest Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1386
+msgid "WordPress Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1395
+msgid "Instagram Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1404
+msgid "Reddit Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1413
+msgid "Linkedin Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1422
+msgid "Youtube Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1431
+msgid "Twitch Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1440
+msgid "Spotify Url"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1458
+msgid "TikTok URL"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1467
+msgid "Telegram URL"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1476
+msgid "Soundcloud URL"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1485
+msgid "Dailymotion URL"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1495
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1508
+msgid "Footer Copyright."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1512
+msgid "Display your own copyright text in footer."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1546
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1551
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1552
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1553
+msgid "4 Columns"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1554
+msgid "5 Columns"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1555
+msgid "6 Columns"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1560
+msgid "Related Columns"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1561
+msgid "How many products should be shown per row?"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1572
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1579
+msgid "Remove cart button from header."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1587
+msgid "Remove login button from menu."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1599
+msgid "Woocommerce Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1602
+msgid "Allow you customize custom color woocommerce."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1607
+msgid "Price Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1615
+msgid "Badge Text Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1623
+msgid "Badge Background Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1631
+msgid "Second Button Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1639
+msgid "Second Button Background Color"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1656
+msgid "AMP"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1663
+msgid "Head Script (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1666
+msgid "You can insert amp page level adsense here or other amp script. Learn more here: https://amp.dev/documentation/components/amp-ad/. These scripts will be printed in the &lt;head&gt;&lt;/head&gt; section."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1671
+#: inc/customizer/gmrtheme-customizer.php:1707
+#: inc/customizer/gmrtheme-customizer.php:1725
+#: inc/customizer/gmrtheme-customizer.php:1758
+#: inc/customizer/gmrtheme-customizer.php:1776
+#: inc/customizer/gmrtheme-customizer.php:1809
+#: inc/customizer/gmrtheme-customizer.php:1827
+msgid "Ads code."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1681
+msgid "Footer Script (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1684
+msgid "You can insert amp script here. These scripts will be printed before &lt;/body&gt; in amp page."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1689
+msgid "AMP code."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1699
+msgid "Top Banner After Menu (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1702
+msgid "Display amp ads after menu. Learn more here: https://amp.dev/documentation/components/amp-ad/"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1717
+msgid "Banner Between Posts (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1720
+msgid "Display amp ads between post in index and archive page. Learn more here: https://amp.dev/documentation/components/amp-ad/."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1750
+msgid "Banner Before Content (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1753
+msgid "Display amp ads before single content. Learn more here: https://amp.dev/documentation/components/amp-ad/."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1768
+msgid "Banner Inside Content (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1771
+msgid "Insert your amp banner inside content in single post. Learn more here: https://amp.dev/documentation/components/amp-ad/."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1786
+msgid "Center (sticky)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1801
+msgid "Banner After Content (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1804
+msgid "Display amp ads after single content. Learn more here: https://amp.dev/documentation/components/amp-ad/."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1819
+msgid "Banner After Related Posts (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1822
+msgid "Display amp ads after related post in single. Learn more here: https://amp.dev/documentation/components/amp-ad/."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1837
+msgid "Footer Banner Before Widget (AMP)"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1840
+msgid "Insert your banner in footer before widget footer or copyright. Learn more here: https://amp.dev/documentation/components/amp-ad/."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1861
+msgid "Other"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1868
+msgid "Head Script"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1871
+msgid "Allow you add script inside &lt;head&gt;&lt;/head&gt;."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1881
+#: inc/customizer/gmrtheme-customizer.php:1900
+msgid "Please insert your code here."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1887
+msgid "Footer Script"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1890
+msgid "Allow you add script before &lt;/body&gt;."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1906
+msgid "Analytic & Pixel"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1909
+msgid "Allow you add google analytic and facebook pixel."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1914
+msgid "Google Analytics ID"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1917
+msgid "Enter your Google Analytics ID (Ex: UA-XXXXX-X)."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1922
+msgid "Facebook Pixel ID"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1925
+msgid "Enter your Facebook Pixel ID."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1931
+msgid "Other Options"
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1934
+msgid "Other options."
+msgstr ""
+
+#: inc/customizer/gmrtheme-customizer.php:1939
+msgid "Remove emoji script"
+msgstr ""
+
+#: inc/dashboard.php:25
+msgid "Kentooz Theme"
+msgstr ""
+
+#: inc/importer/importer.php:31
+msgid "Import demo from http://demo.idtheme.com/wpmedia/."
+msgstr ""
+
+#: inc/module.php:227 inc/widgets/class-wpmedia-moduleposts-widget.php:360
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:146
+msgid "Posts"
+msgstr ""
+
+#: inc/template-tags.php:62
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: inc/template-tags.php:96 inc/widgets/class-wpmedia-taglist-widget.php:240
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:109
+msgid "Topics"
+msgstr ""
+
+#: inc/template-tags.php:161
+msgid "Pics"
+msgstr ""
+
+#: inc/template-tags.php:216 inc/template-tags.php:789
+msgid "Telegram"
+msgstr ""
+
+#: inc/template-tags.php:228
+msgid "Pin"
+msgstr ""
+
+#: inc/template-tags.php:257
+msgid "Closed"
+msgstr ""
+
+#: inc/template-tags.php:272 inc/template-tags.php:277
+#: inc/template-tags.php:283
+msgid "Share"
+msgstr ""
+
+#: inc/template-tags.php:292
+msgid "Share this article"
+msgstr ""
+
+#: inc/template-tags.php:369
+msgid " min read"
+msgstr ""
+
+#: inc/template-tags.php:524
+msgid "Related Posts"
+msgstr ""
+
+#: inc/template-tags.php:648
+msgid "Read Also"
+msgstr ""
+
+#: inc/template-tags.php:739
+msgid "Pinterest"
+msgstr ""
+
+#: inc/template-tags.php:744
+msgid "WordPress"
+msgstr ""
+
+#: inc/template-tags.php:749
+msgid "Instagram"
+msgstr ""
+
+#: inc/template-tags.php:754
+msgid "Reddit"
+msgstr ""
+
+#: inc/template-tags.php:759
+msgid "Linkedin"
+msgstr ""
+
+#: inc/template-tags.php:769
+msgid "Twitch"
+msgstr ""
+
+#: inc/template-tags.php:774
+msgid "Spotify"
+msgstr ""
+
+#: inc/template-tags.php:784
+msgid "TikTok"
+msgstr ""
+
+#: inc/template-tags.php:794
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/template-tags.php:799
+msgid "Dailymotion"
+msgstr ""
+
+#: inc/template-tags.php:805
+msgid "RSS"
+msgstr ""
+
+#: inc/template-tags.php:837
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/template-tags.php:865
+msgid "Open Menu"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:325
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:326
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:328
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:331
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:346
+#, php-format
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:369
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:374
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:379
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:383
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:384
+#: inc/vendor/class-tgm-plugin-activation.php:825
+#: inc/vendor/class-tgm-plugin-activation.php:2551
+#: inc/vendor/class-tgm-plugin-activation.php:3602
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:385
+#: inc/vendor/class-tgm-plugin-activation.php:3177
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:386
+msgid "Following plugin was activated successfully:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:388
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:394
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:395
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:934
+#: inc/vendor/class-tgm-plugin-activation.php:944
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:944
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:1133
+#: inc/vendor/class-tgm-plugin-activation.php:2966
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2000
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2291
+msgid "Required"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2294
+msgid "Recommended"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2310
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2313
+msgid "External Source"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2316
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2333
+msgid "Not Installed"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2337
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2339
+msgid "Active"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2345
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2348
+msgid "Requires Update"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2351
+msgid "Update recommended"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2360
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2406
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2410
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2418
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2500
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2508
+msgid "Installed version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2516
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2528
+msgid "Available version:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2551
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2565
+msgid "Plugin"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2566
+msgid "Source"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2567
+msgid "Type"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2571
+msgid "Version"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2572
+msgid "Status"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2621
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2626
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2632
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2702
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2735
+msgid "Install"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2741
+msgid "Update"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2744
+msgid "Activate"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2775
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2777
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2818
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2820
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2926
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:2970
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3176
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3525
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3529
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3531
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3532
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3534
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3537
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3539
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3540
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/vendor/class-tgm-plugin-activation.php:3542
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:35
+msgid "Add your address company."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:38
+msgid "Contact Info (Wpmedia)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:138
+msgid "Send Mail"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:204
+msgid "Contact Info"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:232
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:715
+#: inc/widgets/class-wpmedia-popularposts-widget.php:811
+#: inc/widgets/class-wpmedia-recentposts-widget.php:721
+#: inc/widgets/class-wpmedia-taglist-widget.php:223
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:240
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:723
+#: inc/widgets/class-wpmedia-popularposts-widget.php:815
+#: inc/widgets/class-wpmedia-recentposts-widget.php:725
+msgid "Link Title:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:246
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:730
+#: inc/widgets/class-wpmedia-popularposts-widget.php:818
+#: inc/widgets/class-wpmedia-recentposts-widget.php:728
+msgid "Target url for title (example: https://www.domain.com/target), leave blank if you want using title without link."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:250
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:735
+#: inc/widgets/class-wpmedia-popularposts-widget.php:822
+#: inc/widgets/class-wpmedia-recentposts-widget.php:732
+msgid "Title Image:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:260
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:745
+#: inc/widgets/class-wpmedia-popularposts-widget.php:832
+#: inc/widgets/class-wpmedia-recentposts-widget.php:742
+msgid "This options, will replace your title widget with image. Please using image size: height: 32px and maximal width: 300px"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:264
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:749
+#: inc/widgets/class-wpmedia-popularposts-widget.php:836
+#: inc/widgets/class-wpmedia-recentposts-widget.php:746
+msgid "Select Image"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:269
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:754
+#: inc/widgets/class-wpmedia-popularposts-widget.php:840
+#: inc/widgets/class-wpmedia-recentposts-widget.php:750
+#: inc/widgets/class-wpmedia-taglist-widget.php:227
+msgid "Description Title:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:276
+msgid "Address:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:283
+msgid "Phone:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:290
+msgid "Insert phone number here..."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:295
+msgid "Email:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-address-widget.php:302
+msgid "Insert email here..."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:35
+msgid "Module Posts With Thumbnail."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:38
+msgid "Module Posts (Wpmedia)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:482
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:551
+#: inc/widgets/class-wpmedia-recentposts-widget.php:500
+#: inc/widgets/class-wpmedia-recentposts-widget.php:563
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:694
+#: inc/widgets/class-wpmedia-popularposts-widget.php:791
+#: inc/widgets/class-wpmedia-recentposts-widget.php:701
+msgid "All Categories"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:761
+#: inc/widgets/class-wpmedia-popularposts-widget.php:872
+#: inc/widgets/class-wpmedia-recentposts-widget.php:754
+msgid "Selected categories"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:766
+#: inc/widgets/class-wpmedia-popularposts-widget.php:875
+#: inc/widgets/class-wpmedia-recentposts-widget.php:757
+msgid "Click on the categories with pressed CTRL key to select multiple categories. If All Categories was selected then other selections will be ignored."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:771
+#: inc/widgets/class-wpmedia-popularposts-widget.php:878
+#: inc/widgets/class-wpmedia-recentposts-widget.php:760
+msgid "Number post"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:779
+#: inc/widgets/class-wpmedia-popularposts-widget.php:882
+#: inc/widgets/class-wpmedia-recentposts-widget.php:764
+#: inc/widgets/class-wpmedia-taglist-widget.php:260
+msgid "Style"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:784
+msgid "Gallery 3 Column (Default)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:787
+msgid "Gallery 2 Column"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:790
+msgid "Gallery 4 Column"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:793
+msgid "Gallery 5 Column"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:796
+msgid "Slider 3 Column"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:799
+msgid "Slider 2 Column"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:802
+msgid "Slider 4 Column"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:805
+msgid "Slider 5 Column"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:811
+msgid "Fix image height 220px"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:815
+msgid "Hide title"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:819
+#: inc/widgets/class-wpmedia-popularposts-widget.php:894
+#: inc/widgets/class-wpmedia-recentposts-widget.php:776
+msgid "Tag:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:826
+#: inc/widgets/class-wpmedia-popularposts-widget.php:897
+#: inc/widgets/class-wpmedia-recentposts-widget.php:779
+msgid "ID Tag, separate by commas(,). Example: 1,2,3,4. Leave blank if you want display by category without tag filter"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:830
+#: inc/widgets/class-wpmedia-popularposts-widget.php:900
+#: inc/widgets/class-wpmedia-recentposts-widget.php:782
+msgid "Background Gradient"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:842
+#: inc/widgets/class-wpmedia-popularposts-widget.php:912
+#: inc/widgets/class-wpmedia-recentposts-widget.php:794
+msgid "Title Color"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:846
+#: inc/widgets/class-wpmedia-popularposts-widget.php:916
+#: inc/widgets/class-wpmedia-recentposts-widget.php:798
+msgid "Before Title Color"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:850
+#: inc/widgets/class-wpmedia-popularposts-widget.php:920
+#: inc/widgets/class-wpmedia-recentposts-widget.php:802
+msgid "Subtitle Color"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:854
+#: inc/widgets/class-wpmedia-popularposts-widget.php:924
+#: inc/widgets/class-wpmedia-recentposts-widget.php:806
+msgid "Link Color"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:858
+#: inc/widgets/class-wpmedia-popularposts-widget.php:928
+#: inc/widgets/class-wpmedia-recentposts-widget.php:810
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-moduleposts-widget.php:862
+#: inc/widgets/class-wpmedia-popularposts-widget.php:932
+#: inc/widgets/class-wpmedia-recentposts-widget.php:814
+msgid "Meta Color"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:34
+msgid "Popular Posts With Thumbnail."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:37
+msgid "Popular Posts (Wpmedia)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:647
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:844
+msgid "Popular range:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:846
+msgid "Alltime"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:847
+msgid "1 Year"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:848
+msgid "2 Mounts"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:849
+msgid "1 Mount"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:850
+msgid "7 Days"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:853
+msgid "Select popular range time."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:857
+msgid "Popular By:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:859
+#: inc/widgets/class-wpmedia-popularposts-widget.php:867
+msgid "Popular By Comments"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:860
+msgid "Popular By Views"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:863
+msgid "Filter Post Popular By Views Or Comments."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:868
+msgid "If you want display popular by views, you can try install plugin wp-postviews or plugin post-views-counter"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:884
+#: inc/widgets/class-wpmedia-recentposts-widget.php:766
+msgid "Default Style"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:885
+#: inc/widgets/class-wpmedia-recentposts-widget.php:767
+msgid "Just Title Style"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:886
+#: inc/widgets/class-wpmedia-recentposts-widget.php:768
+msgid "All Big Thumbnail Style"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:887
+#: inc/widgets/class-wpmedia-recentposts-widget.php:769
+msgid "Number With Title Style"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:888
+#: inc/widgets/class-wpmedia-recentposts-widget.php:770
+msgid "Default With 1 Big Thumbnail"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:889
+#: inc/widgets/class-wpmedia-recentposts-widget.php:771
+msgid "Just Title With 1 Big Thumbnail"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-popularposts-widget.php:890
+#: inc/widgets/class-wpmedia-recentposts-widget.php:772
+msgid "Number With Title With 1 Big Thumbnail"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-recentposts-widget.php:34
+msgid "Recent Posts With Thumbnail."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-recentposts-widget.php:37
+msgid "Recent Posts (Wpmedia)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:34
+msgid "Display Tags By Count or name. This support category list too..."
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:37
+msgid "Popular Tags/Category Widget (Wpmedia)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:127
+msgid "No Category"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:127
+msgid "No Tag"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:193
+msgid "Popular Tags"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:232
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:237
+msgid "Categories"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:246
+msgid "Order By"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:251
+msgid "Count"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:265
+msgid "List 1 column (Default)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:268
+msgid "List 2 columns"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:271
+msgid "Add # before title (1 Column)"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:276
+msgid "Minimal Posts:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:279
+msgid "Minimal Posts For Displaying Tags or category. For example you want display tag if the tag or category have 6 posts, you can insert 6. Default is 1"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:282
+msgid "Number Display:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:285
+msgid "Number tag or category to displaying in your widget. Default 5, for displaying all tags or category you can insert 0"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:288
+msgid "Include ID:"
+msgstr ""
+
+#: inc/widgets/class-wpmedia-taglist-widget.php:291
+msgid "You can include exclusive tags/category, just insert ID Tags separate by commas(,). Example: 1,2,3,4. Leave blank if you want display by default tags"
+msgstr ""
+
+#: inc/woocommerce.php:89
+msgid "Woocommerce Archive Sidebar"
+msgstr ""
+
+#: inc/woocommerce.php:91 inc/woocommerce.php:102
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/woocommerce.php:100
+msgid "Woocommerce Single Sidebar"
+msgstr ""
+
+#: inc/woocommerce.php:367
+msgid "Click Here!"
+msgstr ""
+
+#: inc/woocommerce.php:375
+msgid "This is a demo store for testing purposes &mdash; no orders shall be fulfilled."
+msgstr ""
+
+#: inc/woocommerce.php:406
+msgid "Hi"
+msgstr ""
+
+#: inc/woocommerce.php:408
+msgid "Welcome!"
+msgstr ""
+
+#: inc/woocommerce.php:412
+msgid "My Account"
+msgstr ""
+
+#: inc/woocommerce.php:413
+msgid "Orders"
+msgstr ""
+
+#: inc/woocommerce.php:414
+msgid "Addresses"
+msgstr ""
+
+#: inc/woocommerce.php:416
+msgid "Wishlist"
+msgstr ""
+
+#: inc/woocommerce.php:418
+msgid "Log out"
+msgstr ""
+
+#: inc/woocommerce.php:423
+msgid "Register or Login"
+msgstr ""
+
+#: inc/woocommerce.php:424
+msgid "Register - Login"
+msgstr ""
+
+#: index.php:47
+msgid "Recent News"
+msgstr ""
+
+#: page-fullwidth.php:29 page.php:36 single.php:34
+msgid "Add Comment"
+msgstr ""
+
+#: page-index.php:43
+msgid "Jan."
+msgstr ""
+
+#: page-index.php:44
+msgid "Feb."
+msgstr ""
+
+#: page-index.php:45
+msgid "Mar."
+msgstr ""
+
+#: page-index.php:46
+msgid "Apr."
+msgstr ""
+
+#: page-index.php:47
+msgid "May"
+msgstr ""
+
+#: page-index.php:48
+msgid "Jun."
+msgstr ""
+
+#: page-index.php:49
+msgid "Jul."
+msgstr ""
+
+#: page-index.php:50
+msgid "Aug."
+msgstr ""
+
+#: page-index.php:51
+msgid "Sep."
+msgstr ""
+
+#: page-index.php:52
+msgid "Oct."
+msgstr ""
+
+#: page-index.php:53
+msgid "Nov."
+msgstr ""
+
+#: page-index.php:54
+msgid "Dec."
+msgstr ""
+
+#: page-index.php:69
+msgid "Filter"
+msgstr ""
+
+#: page-index.php:182 template-parts/content-none.php:19
+msgid "Nothing Found"
+msgstr ""
+
+#: page-index.php:186 template-parts/content-none.php:48
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: search.php:28
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-attachment.php:30
+#: template-parts/content-single.php:28
+msgid "Permalink to: "
+msgstr ""
+
+#: template-parts/content-none.php:29
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:42
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-page.php:30
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:166
+msgid "Writer: "
+msgstr ""
+
+#: template-parts/content-single.php:171
+msgid "Editor: "
+msgstr ""
+
+#: template-parts/content-single.php:176
+msgid "Source News"
+msgstr ""
