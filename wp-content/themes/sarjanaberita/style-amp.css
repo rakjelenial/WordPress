@@ -1,0 +1,274 @@
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+* Navigation
+* Grid
+* Header
+* Content
+--------------------------------------------------------------*/
+/* Navigation
+--------------------------------------------- */
+.gmr-sidemenu.toggled-on {
+	right: auto;
+	transform: translate3d(0, 0, 0);
+	pointer-events: auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+a.button,
+button,
+input.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: none;
+}
+
+button.topnav-button {
+	padding: 0;
+}
+
+.gmr-menugrid-btn .gmr-dropdown {
+	padding: 0 0;
+}
+
+button#gmr-responsive-menu {
+	display: inline-flex;
+}
+
+.onoffcanvas-drawer.toggled-on {
+	visibility: visible;
+	pointer-events: auto;
+}
+
+.gmr-mainmenu {
+	max-height: 42px;
+	overflow: hidden;
+}
+
+.gmr-mainmenu ul {
+	overflow: auto;
+	white-space: nowrap;
+	max-width: 100% !important;
+	flex-wrap: nowrap;
+	-ms-overflow-style: none;
+	scrollbar-width: none;
+}
+
+.gmr-mainmenu ul:-webkit-scrollbar {
+	display: none;
+}
+
+.gmr-mainmenu ul > .sub-menu {
+	display: none !important;
+}
+
+.gmr-mainmenu ul > li.page_item_has_children > a:after, .gmr-mainmenu ul > li.menu-item-has-children > a:after {
+	display: none;
+}
+
+#side-nav .close-topnavmenu-wrap button {
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+#side-nav ul li ul.sub-menu {
+	display: grid;
+}
+
+/* Grid
+--------------------------------------------- */
+@media (min-width: 768px) {
+	.container {
+		max-width: 650px;
+	}
+}
+
+@media (min-width: 992px) {
+	.container {
+		max-width: 650px;
+	}
+}
+
+@media (min-width: 1200px) {
+	.container {
+		max-width: 650px;
+	}
+}
+
+@media (min-width: 992px) and (min-width: 1200px) {
+	.col-md-1,
+	.col-md-2,
+	.col-md-3,
+	.col-md-4,
+	.col-md-5,
+	.col-md-6,
+	.col-md-7,
+	.col-md-8,
+	.col-md-9,
+	.col-md-10,
+	.col-md-11,
+	.col-md-12 {
+		width: 100%;
+	}
+	.col-md-offset-3,
+	.col-md-offset-2 {
+		margin-left: 0;
+	}
+	.col-md-6.post,
+	.col-md-4.post {
+		flex: 0 0 auto;
+		width: 50%;
+	}
+}
+
+/* Header
+--------------------------------------------- */
+body {
+	margin: 0;
+}
+
+.gmr-topnavwrap {
+	z-index: 999999;
+}
+
+.gmr-topnavwrap .hidesearch.toggled-on .gmr-searchform {
+	display: block;
+}
+
+.gmr-topnavwrap .hidesearch.toggled-on .gmr-searchform input {
+	display: block;
+}
+
+#gmr-popupwrap {
+	margin: 0;
+}
+
+.gmr-search.desktop-only {
+	display: none;
+}
+
+.gmr-search-btn .hidesearch {
+	display: none;
+}
+
+.gmr-search-btn .hidesearch.toggled-on {
+	display: block;
+}
+
+.gmr-search-btn.mobile-only {
+	display: block;
+}
+
+.gmr-menugrid-btn .hidesearch.toggled-on {
+	display: block;
+}
+
+.gmr-top-date {
+	display: none !important;
+}
+
+/* Content
+--------------------------------------------- */
+amp-img img {
+	object-position: 0 0;
+}
+
+.gmr-thumbnail-single amp-img img {
+	object-position: 50% 50%;
+}
+
+.gmr-box-layout .site {
+	max-width: 690px;
+}
+
+.author-box {
+	margin-bottom: 60px;
+}
+
+.inside-author-box {
+	padding: 220px 10px 10px;
+}
+
+#site-version-switcher {
+	margin-top: 20px;
+}
+
+.pos-sticky {
+	position: relative !important;
+	top: 0;
+}
+
+@media (min-width: 992px) {
+	.pos-sticky {
+		position: relative !important;
+		top: 0;
+	}
+	.admin-bar .pos-sticky {
+		position: relative !important;
+		top: 0;
+	}
+}
+
+.wpmedia-list-amp {
+	overflow: auto;
+	white-space: nowrap;
+}
+
+.wpmedia-list-amp .gmr-slider-content {
+	display: inline-block !important;
+}
+
+.wpmedia-list-amp .gmr-slider-content .post-thumbnail {
+	margin-bottom: 0;
+	margin-right: 10px;
+}
+
+.wpmedia-list-amp .gmr-slider-content .post-thumbnail amp-img {
+	width: auto;
+	max-width: 160px;
+}
+
+.wpmedia-list-amp .gmr-slider-content:last-child {
+	margin-right: 0;
+}
+
+amp-lightbox-gallery {
+	z-index: 99999;
+}
+
+.site-info {
+	display: block;
+	text-align: center;
+	border-bottom: none;
+}
+
+#amp-mobile-version-switcher {
+	display: none !important;
+}
+
+#gmr-popupwrap {
+	display: inline-block;
+}
+
+amp-lightbox,
+amp-lightbox-gallery {
+	z-index: 9999998;
+}
+
+.gmr-banner-insidecontent.gmr-parallax {
+	clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px 100%);
+}
+
+.cat-links-content a {
+	color: #fff;
+}
+
+ins,
+amp-ad {
+	max-width: 100% !important;
+}
