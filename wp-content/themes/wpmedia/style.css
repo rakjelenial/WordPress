@@ -2182,10 +2182,6 @@ a.page-numbers:hover {
 	color: var(--topnav-linkhover-color);
 }
 
-.gmr-topnavwrap .row-flex {
-	height: 40px;
-}
-
 .gmr-topnavwrap .row-flex.gmr-navright {
 	margin-left: auto;
 	max-width: 720px;
